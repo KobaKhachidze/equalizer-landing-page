@@ -1,2 +1,1 @@
-equalizer-landing-page
-URL:https://kobakhachidze.github.io/equalizer-landing-page/
+Live URL:URL:https://kobakhachidze.github.io/equalizer-landing-page/
